@@ -1,0 +1,21 @@
+.container{
+  background-color: #f4bc42;
+  width: 50%;
+  height: 100%;
+  padding: 50px 100px;
+}
+
+.search{
+  border: 10px solid #f9f8f4;
+}
+
+.suggestion {
+  list-style: none;
+}
+.suggestion li{
+  background-color: white;
+  border : 1px solid #f9f8f4;
+}
+.hl{
+  background-color: #f4bc42;
+}
